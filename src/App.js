@@ -6,7 +6,7 @@ function App() {
   useEffect(() => {
     if (ref.current) {
       window.mercuryoWidget.run({
-        widgetId: "c3732a62-a0d6-4602-ac4c-0d7bccd80e22",
+        widgetId: "d6195496-9652-421f-86e9-0e7cfab24719",
         host: ref.current,
       });
     }
